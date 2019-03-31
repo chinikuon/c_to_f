@@ -1,1 +1,1 @@
-# c_to_f
+# this is a program of changing degree c to degree f
